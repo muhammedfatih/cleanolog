@@ -6,10 +6,11 @@
 	"engines": {
 		"vscode": "^1.68.0"
 	},
+	"publisher": "mfatih",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/username/repository.git"
-	  }
+		"url": "git://github.com/muhammedfatih/cleanolog.git"
+	},
 	"categories": [
 		"Other"
 	],
